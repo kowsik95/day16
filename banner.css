@@ -1,0 +1,50 @@
+
+.pizza{
+    width: 100px;
+    height:100px;
+}
+.donut{
+    width: 70px;
+    height: 100px;
+}
+.juice{
+    width: 90px;
+    height: 200px;
+}
+.coneice{
+    width: 50px;
+    height: 100px;
+}
+.bread{
+    width: 5em;
+    height:5em;
+}
+.veg{
+    width: 5em;
+    height:5em;
+}
+.chick{
+    width: 5em;
+    height:5em;
+}
+.milk{
+    width: 5em;
+    height:5em;
+}
+.inj{
+    width: 10em;
+    height: 10em;
+}
+.heart{
+    width: 11em;
+    height: 11em;
+}
+.disease{
+    width: 10em;
+    height: 10em;
+}
+.bor{
+    border-right-color: #19AEC2;
+    border-right-width: 2px;
+    border-right-style: dashed;
+} 
